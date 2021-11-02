@@ -20,6 +20,8 @@
 #### Procediment:
 ###### Per extreure el data, primer hem anat definint funcions, tant per extreure els 'headers' que són les capçaleres del dataset com per anant exportant el 'body' amb tots els registres de les estacions meteorològiques. 
 
+#### Enllaç del ZENODO del dataset generat
+
 
 
 
